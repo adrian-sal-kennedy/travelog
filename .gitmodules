@@ -1,0 +1,6 @@
+[submodule "travelog-api"]
+	path = travelog-api
+	url = ./travelog-api/
+[submodule "travelog-client"]
+	path = travelog-client
+	url = ./travelog-client/
